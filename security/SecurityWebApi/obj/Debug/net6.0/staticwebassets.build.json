@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UDMxGDsKg5R2Y2lTCKASTZlnN+h6dJQqrwfaHOUlBhA=",
+  "Source": "SecurityWebApi",
+  "BasePath": "_content/SecurityWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,27 @@
+{
+  "roles": [
+    {
+      "role": "Administrator",
+      "permissions": [
+        { "permission": "ADMIN_SEC" },
+        { "permission": "USER_CLIENTE" }
+      ]
+    },
+    {
+      "role": "Cliente",
+      "permissions": [
+        { "permission": "USER_CLIENTE" }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "user": "admin",
+      "password": "admin@123",
+      "email": "admin@test.com",
+      "userroles": [
+        { "role": "Administrator" }
+      ]
+    }
+  ]
+}

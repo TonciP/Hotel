@@ -1,0 +1,14 @@
+[
+  {
+    "Mnemonic": "ADMIN_SEC",
+    "Module": "Security",
+    "Name": "Security Management",
+    "Description": "Allows the user to manage security settings."
+  },
+  {
+    "Mnemonic": "USER_CLIENTE",
+    "Module": "RESERVA",
+    "Name": "Reserva Cliente",
+    "Description": "Permite al usuario Reservar una habitacion."
+  }
+] 
